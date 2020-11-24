@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b1c74cc-3e51-4f34-a548-d7f769eb74ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ Loops Task1/.idea/ Loops Task1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Loops Task1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Loops Task1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Loops Task1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Loops Task1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Loops Task1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ Loops Task1/Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Area of circle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Area of circle/.idea/Area of circle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Area of circle/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Area of circle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Area of circle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Area of circle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Area of circle/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataTypes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataTypes/.idea/DataTypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataTypes/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataTypes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataTypes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataTypes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataTypes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataTypes/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DateTime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task1/.idea/Day2Task1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task1/Day2Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task2/.idea/Day2Task2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2Task2/Day2Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise1/.idea/Exercise1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise1/Exercise 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Loops" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProgram/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProgram/.idea/MyFirstProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProgram/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProgram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProgram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProgram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProgram/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProject/.idea/MyFirstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstProject/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/Oriented.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pythonoperators/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pythonoperators/.idea/Pythonoperators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pythonoperators/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pythonoperators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pythonoperators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pythonoperators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pythonoperators/Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recursion/Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/58429_pause-button-png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/730799_stop-button-png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/Music/ciara_thinkin_bout_you_lyrics_mp3_47687.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/Music/danileigh_easy_remix_ft._chris_brown_mp3_54352.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/Music/danileigh_levi_high_audio_ft._dababy_mp3_37473.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/Music/mysong.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/icons8-fast-forward-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/icons8-pause-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/icons8-play-button-24(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/icons8-rewind-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/icons8-stop-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/stop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task1/.idea/Task1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task1/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/01d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/01n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/02d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/02n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/03d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/03n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/04d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/04n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/09d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/09n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/10n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/11d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/11n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/13d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/13n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/50d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/50n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datatypes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datatypes/.idea/datatypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datatypes/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datatypes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datatypes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datatypes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../datatypes/DataTypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/pythonProject4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/pythonProject5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/Lists and tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/pythonProject7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject7/GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject9" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kj5xAmd0wtf0xHbK3nRmQ4dBFT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Other" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Other_eomp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Other.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Other" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b1c74cc-3e51-4f34-a548-d7f769eb74ea" name="Default Changelist" comment="" />
+      <created>1606201403492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606201403492</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1820" height="261" key="GridCell.Tab.0.bottom" timestamp="1606208974821">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1820" height="261" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1606208974821" />
+    <state width="1820" height="261" key="GridCell.Tab.0.center" timestamp="1606208974819">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1820" height="261" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1606208974819" />
+    <state width="1820" height="261" key="GridCell.Tab.0.left" timestamp="1606208974818">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1820" height="261" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1606208974818" />
+    <state width="1820" height="261" key="GridCell.Tab.0.right" timestamp="1606208974820">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1820" height="261" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1606208974820" />
+  </component>
+</project>
