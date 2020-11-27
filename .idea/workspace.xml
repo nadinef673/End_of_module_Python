@@ -170,6 +170,8 @@
       <change afterPath="$PROJECT_DIR$/../pythonProject7/GUI.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject8" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LottoTask2.py" beforeDir="false" afterPath="$PROJECT_DIR$/LottoTask2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Other.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +186,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kj5xAmd0wtf0xHbK3nRmQ4dBFT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -235,21 +237,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1820" height="261" key="GridCell.Tab.0.bottom" timestamp="1606208974821">
+    <state width="1820" height="261" key="GridCell.Tab.0.bottom" timestamp="1606401078251">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1820" height="261" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1606208974821" />
-    <state width="1820" height="261" key="GridCell.Tab.0.center" timestamp="1606208974819">
+    <state width="1820" height="261" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1606401078251" />
+    <state width="1820" height="261" key="GridCell.Tab.0.center" timestamp="1606401078250">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1820" height="261" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1606208974819" />
-    <state width="1820" height="261" key="GridCell.Tab.0.left" timestamp="1606208974818">
+    <state width="1820" height="261" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1606401078250" />
+    <state width="1820" height="261" key="GridCell.Tab.0.left" timestamp="1606401078250">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1820" height="261" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1606208974818" />
-    <state width="1820" height="261" key="GridCell.Tab.0.right" timestamp="1606208974820">
+    <state width="1820" height="261" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1606401078250" />
+    <state width="1820" height="261" key="GridCell.Tab.0.right" timestamp="1606401078250">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1820" height="261" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1606208974820" />
+    <state width="1820" height="261" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1606401078250" />
+    <state x="575" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1606384242214">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="575" y="45" width="840" height="1034" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1606384242214" />
   </component>
 </project>
