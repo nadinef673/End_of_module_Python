@@ -1,12 +1,18 @@
-4322353911626183018291622
-2
-13
-48
-37
-12
-29
-47
-11
-40
-42
-27
+
+Date: 30 November 2020
+Time: 15:23 PM
+Lotto Numbers: [39, 18, 31, 3, 4, 40]
+User numbers: [2, 2, 2, 3, 4, 44]
+Correct numbers: 2
+
+Date: 30 November 2020
+Time: 15:24 PM
+Lotto Numbers: [3, 45, 5, 23, 45, 27]
+User numbers: [65, 76, 3, 90, 88, 7]
+Correct numbers: 1
+
+Date: 30 November 2020
+Time: 15:24 PM
+Lotto Numbers: [3, 45, 5, 23, 45, 27, 38, 38, 41, 43, 36, 20]
+User numbers: [65, 76, 3, 90, 88, 7]
+Correct numbers: 1

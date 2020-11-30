@@ -16,6 +16,7 @@
       <change afterPath="$PROJECT_DIR$/../Area of circle/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Area of circle/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Area of circle/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Currency_converter/.idea/Currency_converter.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DataTypes/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DataTypes/.idea/DataTypes.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DataTypes/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -39,6 +40,9 @@
       <change afterPath="$PROJECT_DIR$/../Day2Task2/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day2Task2/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day2Task2/Day2Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EOMP/.idea/EOMP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Easy_ticket/.idea/Easy_ticket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Emails/.idea/Emails.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise1/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise1/.idea/Exercise1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Exercise1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -71,6 +75,7 @@
       <change afterPath="$PROJECT_DIR$/../OOP/Oriented.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../OOP/class.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../OOP/method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Python  _file/.idea/Python  _file.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pythonoperators/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pythonoperators/.idea/Pythonoperators.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pythonoperators/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
@@ -85,6 +90,9 @@
       <change afterPath="$PROJECT_DIR$/../Recursion/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Recursion/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Recursion/Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Requests/.idea/Requests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortingAlgorithms/.idea/SortingAlgorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sound/.idea/Sound.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sound/58429_pause-button-png.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sound/730799_stop-button-png.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Sound/Music/ciara_thinkin_bout_you_lyrics_mp3_47687.mp3" afterDir="false" />
@@ -105,6 +113,8 @@
       <change afterPath="$PROJECT_DIR$/../Task1/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Task1/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Task1/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testing/.idea/Testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weather_app/.idea/Weather_app.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/01d.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/01n.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Weather_app/weather_icons/02d.png" afterDir="false" />
@@ -129,6 +139,7 @@
       <change afterPath="$PROJECT_DIR$/../datatypes/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../datatypes/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../datatypes/DataTypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eomp_lotto/.idea/eomp_lotto.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/misc.xml" afterDir="false" />
@@ -138,6 +149,7 @@
       <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject1/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject11_eomp/.idea/pythonProject11_eomp.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/misc.xml" afterDir="false" />
@@ -170,8 +182,12 @@
       <change afterPath="$PROJECT_DIR$/../pythonProject7/GUI.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject8" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pythonProject9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LottoTask2.py" beforeDir="false" afterPath="$PROJECT_DIR$/LottoTask2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Other.py" beforeDir="false" afterPath="$PROJECT_DIR$/Other.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testing/.idea/testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LottoTask2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MyFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lottotask3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,8 +212,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.testing">
     <configuration name="Other" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Other_eomp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,9 +236,83 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lottotask3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Other_eomp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lottotask3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Other_eomp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unit_test.AgeTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Other_eomp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unit_test.AgeTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in unit_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Other_eomp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unit_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.testing" />
         <item itemvalue="Python.Other" />
+        <item itemvalue="Python tests.Unittests for unit_test.AgeTest" />
+        <item itemvalue="Python tests.Unittests in unit_test.py" />
+        <item itemvalue="Python.lottotask3" />
       </list>
     </recent_temporary>
   </component>
@@ -237,22 +328,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1820" height="261" key="GridCell.Tab.0.bottom" timestamp="1606401078251">
+    <state x="663" y="244" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606734005267">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1820" height="261" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1606401078251" />
-    <state width="1820" height="261" key="GridCell.Tab.0.center" timestamp="1606401078250">
+    <state x="663" y="244" width="655" height="626" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606734005267" />
+    <state x="443" y="49" width="1096" height="1015" key="CommitChangelistDialog2" timestamp="1606735717066">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1820" height="261" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1606401078250" />
-    <state width="1820" height="261" key="GridCell.Tab.0.left" timestamp="1606401078250">
+    <state x="443" y="49" width="1096" height="1015" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1606735717066" />
+    <state width="1820" height="261" key="GridCell.Tab.0.bottom" timestamp="1606742626917">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1820" height="261" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1606401078250" />
-    <state width="1820" height="261" key="GridCell.Tab.0.right" timestamp="1606401078250">
+    <state width="1820" height="261" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1606742626917" />
+    <state width="1820" height="261" key="GridCell.Tab.0.center" timestamp="1606742626915">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1820" height="261" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1606401078250" />
+    <state width="1820" height="261" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1606742626915" />
+    <state width="1820" height="261" key="GridCell.Tab.0.left" timestamp="1606742626914">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1820" height="261" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1606742626914" />
+    <state width="1820" height="261" key="GridCell.Tab.0.right" timestamp="1606742626916">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1820" height="261" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1606742626916" />
     <state x="575" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1606384242214">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
